@@ -1,0 +1,6 @@
+baseURL: "https://cookbook.deedoubledub.com/"
+languageCode: "en-us"
+title: "Cookbook"
+theme: "ananke"
+
+SectionPagesMenu: "main"
