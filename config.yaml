@@ -13,11 +13,7 @@ menu:
     pre: "shopping-cart"
     url: "/recipes/"
     weight: 2
-  - name: "Cocktails"
-    pre: "coffee"
-    url: "/cocktails/"
-    weight: 3
   - name: "Tags"
     pre: "tag"
     url: "/tags/"
-    weight: 4
+    weight: 3
