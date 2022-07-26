@@ -1,6 +1,7 @@
 ---
 title: "Margarita"
 date: 2021-07-12T17:38:23-04:00
+tags: ["tequila"]
 ---
 
 2 ounces blanco tequila \
