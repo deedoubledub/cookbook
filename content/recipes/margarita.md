@@ -1,6 +1,7 @@
 ---
 title: "Margarita"
-date: 2021-07-12T17:38:23-04:00
+description: "A classic margarita."
+image: "/images/default.png"
 tags: ["cocktail", "tequila"]
 ---
 

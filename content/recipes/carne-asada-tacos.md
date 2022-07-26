@@ -1,6 +1,7 @@
 ---
 title: "Carne Asada Tacos"
-date: 2021-07-12T17:29:55-04:00
+description: "A simple steak taco marinade."
+image: "/images/default.png"
 tags: ["entree", "taco", "mexican"]
 ---
 

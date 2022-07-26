@@ -9,11 +9,7 @@ menu:
     pre: "book-open"
     url: "/"
     weight: 1
-  - name: "Recipes"
-    pre: "shopping-cart"
-    url: "/recipes/"
-    weight: 2
   - name: "Tags"
     pre: "tag"
     url: "/tags/"
-    weight: 3
+    weight: 2
