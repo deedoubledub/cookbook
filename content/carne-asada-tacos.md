@@ -24,6 +24,6 @@ tags: ["entree", "taco", "mexican"]
 
 ## Directions
 1. Mix marinade ingredients
-1. Marinade steak for 1-4 hours
-2. Cook everything in a skillet over medium heat
-3. Serve on tortillas and top with onion
+2. Marinade steak for 1-4 hours
+3. Cook everything in a skillet over medium heat
+4. Serve on tortillas and top with onion
