@@ -2,3 +2,8 @@ baseURL: "https://cookbook.deedoubledub.com/"
 languageCode: "en-us"
 title: "Cookbook"
 theme: "cookbook"
+
+outputs:
+  home:
+  - "HTML"
+  - "JSON"
