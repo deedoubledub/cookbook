@@ -2,8 +2,8 @@
 title: "Carne Asada Tacos"
 description: "A simple steak taco marinade."
 image: "default.png"
-preptime: "15 Minutes"
-cooktime: "15 Minutes"
+preptime: "1-4 Hours"
+cooktime: "10 Minutes"
 servings: "4"
 tags: ["entree", "taco", "mexican"]
 ---

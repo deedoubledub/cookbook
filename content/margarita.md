@@ -2,8 +2,8 @@
 title: "Margarita"
 description: "A classic margarita."
 image: "default.png"
-preptime: "Minutes"
-cooktime: "Minutes"
+preptime: "1 Minute"
+cooktime: "-"
 servings: "1"
 tags: ["cocktail", "tequila"]
 ---

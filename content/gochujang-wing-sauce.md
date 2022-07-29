@@ -2,8 +2,8 @@
 title: "Gochujang Wing Sauce"
 description: "A spicy Korean BBQ chicken wing sauce."
 image: "default.png"
-preptime: "15 Minutes"
-cooktime: "15 Minutes"
+preptime: "5 Minutes"
+cooktime: "5 Minutes"
 servings: "4"
 tags: ["sauce", "chicken", "wings", "spicy", "korean", "bbq"]
 ---
