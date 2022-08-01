@@ -5,7 +5,7 @@ image: "default.png"
 preptime: "5 Minutes"
 cooktime: "10 Minutes"
 servings: "2"
-tags: ["breakfast"]
+tags: ["breakfast", "dairy-free"]
 ---
 
 ## Ingredients

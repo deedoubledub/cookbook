@@ -5,7 +5,7 @@ image: "default.png"
 preptime: "1-4 Hours"
 cooktime: "10 Minutes"
 servings: "4"
-tags: ["entree", "taco", "mexican"]
+tags: ["taco", "mexican"]
 ---
 
 ## Ingredients
