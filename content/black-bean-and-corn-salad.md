@@ -5,7 +5,7 @@ image: "default.png"
 preptime: "10 Minutes"
 cooktime: "-"
 servings: "8"
-tags: ["salad"]
+tags: ["salad", "southwest"]
 ---
 
 ## Ingredients
