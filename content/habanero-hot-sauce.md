@@ -31,3 +31,4 @@ tags: ["spicy", "hot sauce"]
 7. bring to a simmer, cover, cook for 10 minutes on low heat
 8. remove from heat and allow to cool for 10 minutes, covered
 9. pour mixture into a blender or food processor, blend until smooth
+10. add additional vinegar 1 tablespoon at a time until desirable consistency is achieved

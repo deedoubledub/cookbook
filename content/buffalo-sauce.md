@@ -12,7 +12,7 @@ tags: ["chicken", "wings", "sauce", "bbq"]
 - 8 tablespoons unsalted butter (1 stick)
 - 3/4 cup Frank's hot sauce
 - 1 teaspoon Worcestershire sauce
-- 1/2 teaspoon cayenne
+- 1/4 - 1/2 teaspoon cayenne
 - 1/4 teaspoon garlic powder
 - 3/4 teaspoon celery seed
 
