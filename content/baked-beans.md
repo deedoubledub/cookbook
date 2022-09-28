@@ -4,23 +4,23 @@ description: "Delicious, smoky, spicy baked beans."
 image: "baked-beans.jpg"
 preptime: "30 Minutes"
 cooktime: "90 Minutes"
-servings: "6"
+servings: "15"
 tags: ["bbq", "spicy", "smoke", "good eats"]
 ---
 
 Adapted from [Alton Brown's recipe](https://www.foodnetwork.com/recipes/alton-brown/the-once-and-future-beans-recipe-1938616).
 
 ## Ingredients
-- 1 can great northern beans
-- 1 can black beans
+- 3 cans great northern beans
+- 3 cans black beans
 - 1 onion, chopped
-- 2 jalapenos, chopped
-- 1/4 cup tomato paste
-- 1/4 cup dark brown sugar
+- 4 small jalapenos, seeded and chopped
+- 1/2 cup tomato paste
+- 1/2 cup dark brown sugar
 - 1/4 cup molasses
-- 2 cups vegetable broth
-- 1/4 teaspoon cayenne pepper
-- 1 teaspoon black pepper
+- 3 cups vegetable broth
+- 1/2 teaspoon cayenne pepper
+- 2 teaspoon black pepper
 - 1 teaspoon kosher salt
 
 ## Directions
