@@ -14,7 +14,7 @@ tags: ["good eats", "christmas", "dairy-free"]
 - 1 pint whole milk
 - 1 cup heavy cream
 - 3 ounces bourbon
-- 1 teaspoon freshly grated nutmeg
+- 1/4 teaspoon freshly grated nutmeg
 - 4 egg whites
 
 #### Dairy-Free Substitutions
