@@ -5,7 +5,7 @@ image: "default.png"
 preptime: "10 Minutes"
 cooktime: "15 Minutes"
 servings: "6"
-tags: ["quinoa"]
+tags: ["salad", "southwest"]
 ---
 
 ## Ingredients
