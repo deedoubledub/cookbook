@@ -1,5 +1,6 @@
 # generated files
 /resources/_gen/
+/public
 
 # lock file
 /.hugo_build.lock
