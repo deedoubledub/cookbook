@@ -4,7 +4,7 @@ description: "Too much zucchini? Fry up some tasty fritters."
 image: "default.png"
 preptime: "15 Minutes"
 cooktime: "15 Minutes"
-servings: "4"
+servings: "2"
 tags: ["zucchini", "fritter"]
 ---
 
