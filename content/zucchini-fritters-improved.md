@@ -11,7 +11,7 @@ tags: ["zucchini", "fritter"]
 ## Ingredients
 - 3 cups shredded zucchini
 - 1 medium onion, finely chopped
-- 1 1/2 teaspoons salt
+- 1/2 teaspoon salt
 - 1 egg
 - 2 cloves garlic, minced
 - 1/2 teaspoon ground black pepper
